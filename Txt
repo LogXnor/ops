@@ -1,4 +1,10 @@
-
+adapt
+bridge
+memento
+obvious
+obvious
+,
+();)
 
 
 
@@ -2230,3 +2236,4 @@
 
 
 
+etc
